@@ -1,0 +1,2 @@
+# Codemagic
+Codemagic for miner
